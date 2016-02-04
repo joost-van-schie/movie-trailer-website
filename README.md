@@ -6,7 +6,6 @@ Movie Trailer Website is a project where users can see my favorite movies and wa
 ## Table of contents
 
 * [Quick start](#quick-start)
-* [Documentation](#documentation)
 * [What's included](#Whats-included)
 * [Creator](#creator)
 
